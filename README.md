@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>maw.dev - GitHub Profile Card</title>
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      background: #1a1a2e;
-      font-family: 'Press Start 2P', monospace;
-    }
-    .preview-note {
-      position: fixed;
-      top: 10px;
-      left: 50%;
-      transform: translateX(-50%);
-      background: #000080;
-      color: white;
-      padding: 8px 16px;
-      font-family: 'Press Start 2P', monospace;
-      font-size: 8px;
-      border: 2px solid;
-      border-color: #ffffff #808080 #808080 #ffffff;
-      z-index: 100;
-    }
-  </style>
-</head>
-<body>
-  <div class="preview-note">PREVIEW - Copy the SVG below for your GitHub README</div>
 
-  <!-- === SVG PROFILE CARD - Copy from here === -->
   <svg xmlns="http://www.w3.org/2000/svg" width="840" height="480" viewBox="0 0 840 480">
     <defs>
       <style>
@@ -255,7 +219,4 @@
     <circle cx="780" cy="30" r="12" fill="#FFF8DC" opacity="0.6"/>
 
   </svg>
-  <!-- === End of SVG Profile Card === -->
-
-</body>
 </html>
