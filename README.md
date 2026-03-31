@@ -219,4 +219,3 @@
     <circle cx="780" cy="30" r="12" fill="#FFF8DC" opacity="0.6"/>
 
   </svg>
-</html>
